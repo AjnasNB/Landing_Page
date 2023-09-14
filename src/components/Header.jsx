@@ -76,12 +76,12 @@ function Header() {
           <Button
             onClick={() => {
               window.open(
-                "https://celadon-pie-c9de0e.netlify.app/"
+                "https://report.ajnasnb.me/"
               );
             }}
             className="resumebtn"
           >
-            <a href="https://celadon-pie-c9de0e.netlify.app/"><span>Report</span></a>
+            <a href="https://report.ajnasnb.me/"><span>Report</span></a>
           </Button>
         </Nav>
       </Navbar.Collapse>
